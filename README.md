@@ -1,2 +1,2 @@
 # disco-stu
-Stuwart, a bot for discord
+Stuwart, the Games for Spiders Discord chat bot.

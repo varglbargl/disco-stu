@@ -1,0 +1,26 @@
+{
+  "name": "disco-stu",
+  "version": "1.0.0",
+  "description": "Stuwart, the Games for Spiders Discord chat bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varglbargl/disco-stu.git"
+  },
+  "author": "Vanessa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varglbargl/disco-stu/issues"
+  },
+  "homepage": "https://github.com/varglbargl/disco-stu#readme",
+  "dependencies": {
+    "discord.js": "^12.0.2",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
